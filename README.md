@@ -23,3 +23,4 @@ You can find Languages and Tools in this Account and much more!
 <img align="left" alt="SQL" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Selenium" width="30px" height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 
+[Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
